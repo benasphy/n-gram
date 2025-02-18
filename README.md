@@ -52,5 +52,5 @@ Feel free to contribute by improving stopword removal, adding new evaluation tec
 MIT License
 
 ## Author
-Your Name
+Biniam Daniel
 
